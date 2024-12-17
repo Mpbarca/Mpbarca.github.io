@@ -1,0 +1,192 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color:rgb(122, 155, 165);
+}
+
+nav {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  display: flex;
+  flex: right;
+  margin: 0 10px;
+  z-index: 1;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.gallery_frame {
+  position: relative;
+  margin-top: 40px;
+  margin-bottom: 650px;
+  width: 100%;
+  height: auto;
+}
+
+#_idContainer000 {
+	-ms-transform:translate(36.000px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(36.000px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:528.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(36.000px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(36.000px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:728.00px;
+}
+
+#_idContainer001, #_idContainer003, #_idContainer005, #_idContainer007 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:130.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer002 {
+	-ms-transform:translate(109.500px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(109.500px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:130.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(109.500px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(109.500px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer004 {
+	-ms-transform:translate(110.000px,251.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(110.000px,251.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:130.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(110.000px,251.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(110.000px,251.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer006 {
+	-ms-transform:translate(473.000px,249.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(473.000px,249.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:130.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(473.000px,249.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(473.000px,249.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer008 {
+	-ms-transform:translate(474.000px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(474.000px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:130.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(474.000px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(474.000px,119.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer009 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:146.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer010 {
+	-ms-transform:translate(327.000px,370.000px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(327.000px,370.000px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:146.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(327.000px,370.000px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(327.000px,370.000px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer011 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:134.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
+
+#_idContainer012 {
+	-ms-transform:translate(508.000px,482.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(508.000px,482.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:134.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(508.000px,482.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(508.000px,482.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:217.00px;
+}
