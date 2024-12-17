@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-Sizing Image Example</title>
+    <style>
+        /* Container for the image */
+        .image-container {
+            width: 100%; /* Full width */
+            max-width: 600px; /* Maximum width of the image */
+            margin: 0 auto; /* Center the container */
+        }
+
+        /* Image styles */
+        .responsive-image {
+            width: 100%; /* Make the image take the full width of the container */
+            height: auto; /* Maintain aspect ratio */
+            display: block; /* Remove bottom space/gap */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="image-container">
+        <img src="Meme.png" alt="A beautiful image" class="responsive-image">
+    </div>
+
+</body>
+</html>
